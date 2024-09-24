@@ -16,7 +16,7 @@ The Formula 1 Manager CLI is a command-line interface application built using Py
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/njagua3/formula-1.git>
    cd formula-1
 
 2. Install dependencies using Pipenv:
